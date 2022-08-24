@@ -8,4 +8,4 @@ resources:
 images:
 - name: goserver
   newName: brhujah/gitopsmm
-  newTag: fbfe90c4fc74516127d118e25c4389391ef01127
+  newTag: 5803bfe762ba4129f9043defb637941ca523e2f7
